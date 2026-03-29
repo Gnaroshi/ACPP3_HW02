@@ -1,0 +1,9 @@
+* 2752831 (HEAD -> main) [Add] baseline and scaled experiment results
+* c673060 [Add] Configure DVC
+* 46a3586 [DVC] Track titanic.csv
+* 9fa1720 [Init] DVC
+* ec019c6 (origin/main, origin/HEAD) [Add] ipynb, reports
+*   68d849a [Add] .gitignore
+|\  
+| * 4dae4d4 Initial commit
+* 0bfd6f3 [Add] README.md, .gitignore

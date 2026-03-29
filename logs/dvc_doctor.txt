@@ -1,0 +1,22 @@
+DVC version: 3.67.0 (pip)
+-------------------------
+Platform: Python 3.12.12 on macOS-26.3.1-arm64-arm-64bit
+Subprojects:
+	dvc_data = 3.18.3
+	dvc_objects = 5.2.0
+	dvc_render = 1.0.2
+	dvc_task = 0.40.2
+	scmrepo = 3.6.1
+Supports:
+	http (aiohttp = 3.13.3, aiohttp-retry = 2.9.1),
+	https (aiohttp = 3.13.3, aiohttp-retry = 2.9.1)
+Config:
+	Global: /Users/gnaroshi/Library/Application Support/dvc
+	System: /Library/Application Support/dvc
+Cache types: reflink, hardlink, symlink
+Cache directory: apfs on /dev/disk3s1s1
+Caches: local
+Remotes: local
+Workspace directory: apfs on /dev/disk3s1s1
+Repo: dvc, git
+Repo.site_cache_dir: /Library/Caches/dvc/repo/05a3af124142dcb628eba3693e80f0b4
